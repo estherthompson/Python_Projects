@@ -11,13 +11,11 @@ Project 1 is a Python application that showcases a maze-solving algorithm.
 Using depth-first search, this project demonstrates how to navigate through a maze and find the optimal path from the start to the finish. 
 It's an excellent example of algorithmic problem-solving in Python.
 
-Project 2: [Project Name]
-Description: [Brief description of Project 2]
+Project 2: Data Interpolation and Plotting with Turtle
 
-Project 3: [Project Name]
-Description: [Brief description of Project 3]
+Project 2 is a Python program that allows users to input data points and plots them using the Turtle graphics library. Users can specify the x and y coordinates for each data point, and the program ensures data validity and order. After plotting the input points, the program can interpolate data between specified years and display the results graphically.
 
-... and more projects showcasing the breadth of my skill set.
+This project demonstrates data input validation, graphical plotting, and interpolation calculations in a user-friendly manner, making it a valuable tool for visualizing and analyzing data.
 
 How to Navigate
 To explore a specific Python project, simply click on the corresponding project folder. Inside, you'll find the project's source code, documentation, and any additional information relevant to that particular project.
