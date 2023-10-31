@@ -7,6 +7,7 @@ Here's a quick overview of the Python projects featured in this repository:
 
 
 Project 1: Maze Solver
+
 Project 1 is a Python application that showcases a maze-solving algorithm. 
 Using depth-first search, this project demonstrates how to navigate through a maze and find the optimal path from the start to the finish. 
 It's an excellent example of algorithmic problem-solving in Python.
